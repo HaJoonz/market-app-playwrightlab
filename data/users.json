@@ -36,6 +36,42 @@
       "salt": "a6fc53343361540dd76689a8d8ccb13d",
       "passwordHash": "a121e44856a333b0f64735e6f796f97b54fc30edc26686f8a5aab80acc2bdfb141e112c5a808e5eb1693eb42f53208464907e94d2ca81ea2bd3db43617a6b10a",
       "createdAt": "2026-09-29T07:10:39.137Z"
+    },
+    {
+      "id": "e9468a33-3098-44f4-8027-278154d4e06a",
+      "fullName": "iuioerutert",
+      "phone": "0800000045",
+      "role": "tenant",
+      "salt": "e23980cfa35fba7c367f82b8599a2449",
+      "passwordHash": "27cef870c73e4aba38d87324a1aa065202a27f1d9fb47cc4ddf1d2b0487d1eaff9856c2a4fe92fdadb9c1968889f2c7b81ef50d9d8bdc99805cb0c9cdd15b410",
+      "createdAt": "2026-10-02T04:32:55.892Z"
+    },
+    {
+      "id": "0d9dfffb-d03c-43ba-8f64-402e03f6e9ea",
+      "fullName": "Phornwissanu Suchatrai",
+      "phone": "0800000001",
+      "role": "tenant",
+      "salt": "b0cf44f233ac34cc31b896b983992007",
+      "passwordHash": "8baafaf3ce5d8293ac0cdc9beab1d4ddfc4a2ef89391987c1fec77a6c1ad05b198773c6126c38deb7c68d5f04e7aa234fe117ff4d3503906ca4293389fb7698c",
+      "createdAt": "2026-10-02T04:33:14.947Z"
+    },
+    {
+      "id": "4960cff9-fc25-4269-baf3-0e123cf19469",
+      "fullName": "Phornwissanu Suchatrai",
+      "phone": "0800000035",
+      "role": "tenant",
+      "salt": "807da4d36ba6ddfd137a62cf3fd233e1",
+      "passwordHash": "10e44c885d8bf57a34755af4272f116e21026851eb503777ae6288ebff2a009cee13654d078fe121a427571b3e882d2d3d20fc598383d4a17f16777023edcf72",
+      "createdAt": "2026-10-02T04:35:29.751Z"
+    },
+    {
+      "id": "67aca329-25b9-41c2-a0df-e936a439b3a3",
+      "fullName": "Phornwissanu Suchatrai",
+      "phone": "0800000048",
+      "role": "tenant",
+      "salt": "5ee5a7d37c4641d302307f6f9c565dc4",
+      "passwordHash": "2a3a1c26affaec85f04784607217c5ecc10be597a70755aaf03f82bbde8676fbce6aa17e56615335b456df98ee16fc409539b08cf65748dfd3ff9fe4df46fced",
+      "createdAt": "2026-10-02T04:36:19.003Z"
     }
   ]
 }
